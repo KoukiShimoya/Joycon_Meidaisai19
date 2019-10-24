@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91cc72f2-1b7c-44e7-988a-51916e8bb9fd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/JoyconLib_scripts/General/Example.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <marker date="1571921684901" expanded="true" signature="6:85" ph="..." />
+                <marker date="1571921684901" expanded="true" signature="123:3080" ph="{...}" />
+                <marker date="1571921684901" expanded="true" signature="487:720" ph="{...}" />
+                <marker date="1571921684901" expanded="true" signature="747:1439" ph="{...}" />
+                <marker date="1571921684901" expanded="true" signature="930:1190" ph="{...}" />
+                <marker date="1571921684901" expanded="true" signature="989:1060" ph="{...}" />
+                <marker date="1571921684901" expanded="true" signature="1109:1180" ph="{...}" />
+                <marker date="1571921684901" expanded="true" signature="1236:1312" ph="{...}" />
+                <marker date="1571921684901" expanded="true" signature="1357:1433" ph="{...}" />
+                <marker date="1571921684901" expanded="true" signature="1465:3078" ph="{...}" />
+                <marker date="1571921684901" expanded="true" signature="1608:1701" ph="{...}" />
+                <marker date="1571921684901" expanded="true" signature="1749:1846" ph="{...}" />
+                <marker date="1571921684901" expanded="true" signature="1895:1992" ph="{...}" />
+                <marker date="1571921684901" expanded="true" signature="2099:3036" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/JoyconLib_scripts/General/GetJoyconValue.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="94" column="35" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
+              <folding>
+                <marker date="1571927654881" expanded="true" signature="6:92" ph="..." />
+                <marker date="1571927654881" expanded="true" signature="162:3524" ph="{...}" />
+                <marker date="1571927654881" expanded="true" signature="501:675" ph="{...}" />
+                <marker date="1571927654881" expanded="true" signature="702:1081" ph="{...}" />
+                <marker date="1571927654881" expanded="true" signature="823:1075" ph="{...}" />
+                <marker date="1571927654881" expanded="true" signature="880:949" ph="{...}" />
+                <marker date="1571927654881" expanded="true" signature="996:1065" ph="{...}" />
+                <marker date="1571927654881" expanded="true" signature="1091:1226" ph="/// Joyconの加速度を取得 ... " />
+                <marker date="1571927654881" expanded="true" signature="1278:1353" ph="{...}" />
+                <marker date="1571927654881" expanded="true" signature="1363:1499" ph="/// Joyconのジャイロを取得 ... " />
+                <marker date="1571927654881" expanded="true" signature="1543:1616" ph="{...}" />
+                <marker date="1571927654881" expanded="true" signature="1626:1767" ph="/// Joyconのアナログスティックの傾き ... " />
+                <marker date="1571927654881" expanded="true" signature="1812:1989" ph="{...}" />
+                <marker date="1571927654881" expanded="true" signature="1999:2132" ph="/// Joycon自体の傾き ... " />
+                <marker date="1571927654881" expanded="true" signature="2178:2279" ph="{...}" />
+                <marker date="1571927654881" expanded="true" signature="2285:2476" ph="/// Joyconの振った量がしきい値を超えたかどうか ... " />
+                <marker date="1571927654881" expanded="true" signature="2541:2611" ph="{...}" />
+                <marker date="1571927654881" expanded="true" signature="2617:2766" ph="/// Joyconの押しているボタンを返す, null許容型 ... " />
+                <marker date="1571927654881" expanded="true" signature="2817:2884" ph="{...}" />
+                <marker date="1571927654881" expanded="true" signature="2890:3173" ph="/// Joyconを振動させる ... " />
+                <marker date="1571927654881" expanded="true" signature="3292:3517" ph="{...}" />
+                <marker date="1571927654881" expanded="true" signature="3316:3407" ph="{...}" />
+                <marker date="1571927654881" expanded="true" signature="3420:3511" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/JoyconLib_scripts/General/HowToUseJoycon.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+              <folding>
+                <marker date="1571927072118" expanded="false" signature="6:78" ph="..." />
+                <marker date="1571927072118" expanded="true" signature="123:847" ph="{...}" />
+                <marker date="1571927072118" expanded="true" signature="193:255" ph="{...}" />
+                <marker date="1571927072118" expanded="true" signature="277:845" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/JoyconLib_scripts/JoyconManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+              <folding>
+                <marker date="1571920024943" expanded="false" signature="6:131" ph="..." />
+                <marker date="1571920024943" expanded="true" signature="173:2443" ph="{...}" />
+                <marker date="1571920024943" expanded="true" signature="669:714" ph="{...}" />
+                <marker date="1571920024943" expanded="true" signature="732:2036" ph="{...}" />
+                <marker date="1571920024943" expanded="true" signature="1003:1173" ph="{...}" />
+                <marker date="1571920024943" expanded="true" signature="1082:1169" ph="{...}" />
+                <marker date="1571920024943" expanded="true" signature="1232:1989" ph="{...}" />
+                <marker date="1571920024943" expanded="true" signature="1439:1958" ph="{...}" />
+                <marker date="1571920024943" expanded="true" signature="1485:1559" ph="{...}" />
+                <marker date="1571920024943" expanded="true" signature="1604:1680" ph="{...}" />
+                <marker date="1571920024943" expanded="true" signature="2054:2243" ph="{...}" />
+                <marker date="1571920024943" expanded="true" signature="2096:2237" ph="{...}" />
+                <marker date="1571920024943" expanded="true" signature="2262:2336" ph="{...}" />
+                <marker date="1571920024943" expanded="true" signature="2304:2330" ph="{...}" />
+                <marker date="1571920024943" expanded="true" signature="2366:2441" ph="{...}" />
+                <marker date="1571920024943" expanded="true" signature="2408:2435" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/JoyconLib_scripts/Joycon.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="876">
+              <caret line="655" column="124" lean-forward="true" selection-start-line="655" selection-start-column="124" selection-end-line="655" selection-end-column="124" />
+              <folding>
+                <marker date="1571925960840" expanded="false" signature="21:170" ph="..." />
+                <marker date="1571925960840" expanded="true" signature="191:23360" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="225:327" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="429:564" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="619:899" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="1852:2284" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="1962:2028" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="2069:2111" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="2152:2278" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="2211:2268" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="2311:5646" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="2506:2791" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="2682:2781" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="2877:3162" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="3053:3152" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="3221:3337" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="3369:5640" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="3454:3623" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="4519:4585" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="5124:5205" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="5218:5598" ph="/* Debug.Log(string.Format(&quot;Encoded hex freq: {0:X2}&quot;, encoded_hex_freq)); ... */" />
+                <marker date="1571925960840" expanded="true" signature="5881:6047" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="6097:6287" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="6235:6281" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="6327:6376" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="6412:6456" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="6494:6541" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="6571:6605" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="6634:6668" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="6698:6732" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="6766:7035" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="6917:6974" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="7072:7785" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="7825:7863" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="7888:8459" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="8090:8322" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="8358:8416" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="8573:9401" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="8817:9375" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="8994:9174" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="9025:9160" ph="/* 謎のエラーが出た為コメントアウト ... */" />
+                <marker date="1571925960840" expanded="true" signature="9219:9365" ph="/* 謎のエラーが出た為コメントアウト ... */" />
+                <marker date="1571925960840" expanded="true" signature="9459:10258" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="9549:10193" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="9692:9794" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="9832:10012" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="10029:10159" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="10345:11963" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="10390:11957" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="10492:11733" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="10727:11018" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="10782:10874" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="10899:11000" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="11062:11258" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="11101:11240" ph="/* 謎のエラーが出た為コメントアウト ... */" />
+                <marker date="1571925960840" expanded="true" signature="11314:11678" ph="/* 謎のエラーが出た為コメントアウト ... */" />
+                <marker date="1571925960840" expanded="true" signature="11814:11947" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="11842:11892" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="12021:14181" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="12578:12657" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="13937:14115" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="14245:15098" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="14869:15092" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="15312:17158" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="15322:15402" ph="/* Direction Cosine Matrix method ... */" />
+                <marker date="1571925960840" expanded="true" signature="15711:17095" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="15955:16107" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="16142:16344" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="16361:17065" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="17182:17347" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="17223:17341" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="17374:17419" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="17467:17917" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="17541:17893" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="17718:17790" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="17807:17883" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="18001:18215" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="18120:18209" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="18255:18631" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="18711:19611" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="19652:22251" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="19839:20038" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="19882:20028" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="20058:20256" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="21845:22245" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="22332:22843" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="22522:22701" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="22640:22691" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="22968:23358" ph="{...}" />
+                <marker date="1571925960840" expanded="true" signature="23153:23299" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spam</find>
+      <find>ts_de</find>
+      <find>Format</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/JoyconLib_scripts/General/GetJoyconValue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JoyconLib_scripts/General/Example.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JoyconLib_scripts/JoyconManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JoyconLib_scripts/Joycon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JoyconLib_scripts/General/HowToUseJoycon.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/JoyconLib_scripts/General/Example.cs" />
+        <option value="$PROJECT_DIR$/Assets/JoyconLib_scripts/Joycon.cs" />
+        <option value="$PROJECT_DIR$/Assets/JoyconLib_scripts/General/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/JoyconLib_scripts/General/HowToUseJoycon.cs" />
+        <option value="$PROJECT_DIR$/Assets/JoyconLib_scripts/General/GetJoyconValue.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="247" />
+    <option name="y" value="96" />
+    <option name="width" value="1203" />
+    <option name="height" value="875" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91cc72f2-1b7c-44e7-988a-51916e8bb9fd" name="Default Changelist" comment="" />
+      <created>1571921303189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571921303189</updated>
+      <workItem from="1571921314517" duration="6290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6290000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1683434" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/JoyconLib_scripts/General/Test.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/JoyconLib_scripts/General/HowToUseJoycon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <marker date="1571927072118" expanded="false" signature="6:78" ph="..." />
+            <marker date="1571927072118" expanded="true" signature="123:847" ph="{...}" />
+            <marker date="1571927072118" expanded="true" signature="193:255" ph="{...}" />
+            <marker date="1571927072118" expanded="true" signature="277:845" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/JoyconLib_scripts/JoyconManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <marker date="1571920024943" expanded="false" signature="6:131" ph="..." />
+            <marker date="1571920024943" expanded="true" signature="173:2443" ph="{...}" />
+            <marker date="1571920024943" expanded="true" signature="669:714" ph="{...}" />
+            <marker date="1571920024943" expanded="true" signature="732:2036" ph="{...}" />
+            <marker date="1571920024943" expanded="true" signature="1003:1173" ph="{...}" />
+            <marker date="1571920024943" expanded="true" signature="1082:1169" ph="{...}" />
+            <marker date="1571920024943" expanded="true" signature="1232:1989" ph="{...}" />
+            <marker date="1571920024943" expanded="true" signature="1439:1958" ph="{...}" />
+            <marker date="1571920024943" expanded="true" signature="1485:1559" ph="{...}" />
+            <marker date="1571920024943" expanded="true" signature="1604:1680" ph="{...}" />
+            <marker date="1571920024943" expanded="true" signature="2054:2243" ph="{...}" />
+            <marker date="1571920024943" expanded="true" signature="2096:2237" ph="{...}" />
+            <marker date="1571920024943" expanded="true" signature="2262:2336" ph="{...}" />
+            <marker date="1571920024943" expanded="true" signature="2304:2330" ph="{...}" />
+            <marker date="1571920024943" expanded="true" signature="2366:2441" ph="{...}" />
+            <marker date="1571920024943" expanded="true" signature="2408:2435" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/JoyconLib_scripts/Joycon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="876">
+          <caret line="655" column="124" lean-forward="true" selection-start-line="655" selection-start-column="124" selection-end-line="655" selection-end-column="124" />
+          <folding>
+            <marker date="1571925960840" expanded="false" signature="21:170" ph="..." />
+            <marker date="1571925960840" expanded="true" signature="191:23360" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="225:327" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="429:564" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="619:899" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="1852:2284" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="1962:2028" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="2069:2111" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="2152:2278" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="2211:2268" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="2311:5646" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="2506:2791" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="2682:2781" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="2877:3162" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="3053:3152" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="3221:3337" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="3369:5640" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="3454:3623" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="4519:4585" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="5124:5205" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="5218:5598" ph="/* Debug.Log(string.Format(&quot;Encoded hex freq: {0:X2}&quot;, encoded_hex_freq)); ... */" />
+            <marker date="1571925960840" expanded="true" signature="5881:6047" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="6097:6287" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="6235:6281" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="6327:6376" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="6412:6456" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="6494:6541" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="6571:6605" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="6634:6668" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="6698:6732" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="6766:7035" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="6917:6974" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="7072:7785" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="7825:7863" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="7888:8459" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="8090:8322" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="8358:8416" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="8573:9401" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="8817:9375" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="8994:9174" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="9025:9160" ph="/* 謎のエラーが出た為コメントアウト ... */" />
+            <marker date="1571925960840" expanded="true" signature="9219:9365" ph="/* 謎のエラーが出た為コメントアウト ... */" />
+            <marker date="1571925960840" expanded="true" signature="9459:10258" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="9549:10193" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="9692:9794" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="9832:10012" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="10029:10159" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="10345:11963" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="10390:11957" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="10492:11733" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="10727:11018" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="10782:10874" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="10899:11000" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="11062:11258" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="11101:11240" ph="/* 謎のエラーが出た為コメントアウト ... */" />
+            <marker date="1571925960840" expanded="true" signature="11314:11678" ph="/* 謎のエラーが出た為コメントアウト ... */" />
+            <marker date="1571925960840" expanded="true" signature="11814:11947" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="11842:11892" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="12021:14181" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="12578:12657" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="13937:14115" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="14245:15098" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="14869:15092" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="15312:17158" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="15322:15402" ph="/* Direction Cosine Matrix method ... */" />
+            <marker date="1571925960840" expanded="true" signature="15711:17095" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="15955:16107" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="16142:16344" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="16361:17065" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="17182:17347" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="17223:17341" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="17374:17419" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="17467:17917" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="17541:17893" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="17718:17790" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="17807:17883" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="18001:18215" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="18120:18209" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="18255:18631" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="18711:19611" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="19652:22251" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="19839:20038" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="19882:20028" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="20058:20256" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="21845:22245" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="22332:22843" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="22522:22701" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="22640:22691" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="22968:23358" ph="{...}" />
+            <marker date="1571925960840" expanded="true" signature="23153:23299" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/JoyconLib_scripts/General/Example.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1571921684901" expanded="true" signature="6:85" ph="..." />
+            <marker date="1571921684901" expanded="true" signature="123:3080" ph="{...}" />
+            <marker date="1571921684901" expanded="true" signature="487:720" ph="{...}" />
+            <marker date="1571921684901" expanded="true" signature="747:1439" ph="{...}" />
+            <marker date="1571921684901" expanded="true" signature="930:1190" ph="{...}" />
+            <marker date="1571921684901" expanded="true" signature="989:1060" ph="{...}" />
+            <marker date="1571921684901" expanded="true" signature="1109:1180" ph="{...}" />
+            <marker date="1571921684901" expanded="true" signature="1236:1312" ph="{...}" />
+            <marker date="1571921684901" expanded="true" signature="1357:1433" ph="{...}" />
+            <marker date="1571921684901" expanded="true" signature="1465:3078" ph="{...}" />
+            <marker date="1571921684901" expanded="true" signature="1608:1701" ph="{...}" />
+            <marker date="1571921684901" expanded="true" signature="1749:1846" ph="{...}" />
+            <marker date="1571921684901" expanded="true" signature="1895:1992" ph="{...}" />
+            <marker date="1571921684901" expanded="true" signature="2099:3036" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/JoyconLib_scripts/General/GetJoyconValue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="94" column="35" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
+          <folding>
+            <marker date="1571927654881" expanded="true" signature="6:92" ph="..." />
+            <marker date="1571927654881" expanded="true" signature="162:3524" ph="{...}" />
+            <marker date="1571927654881" expanded="true" signature="501:675" ph="{...}" />
+            <marker date="1571927654881" expanded="true" signature="702:1081" ph="{...}" />
+            <marker date="1571927654881" expanded="true" signature="823:1075" ph="{...}" />
+            <marker date="1571927654881" expanded="true" signature="880:949" ph="{...}" />
+            <marker date="1571927654881" expanded="true" signature="996:1065" ph="{...}" />
+            <marker date="1571927654881" expanded="true" signature="1091:1226" ph="/// Joyconの加速度を取得 ... " />
+            <marker date="1571927654881" expanded="true" signature="1278:1353" ph="{...}" />
+            <marker date="1571927654881" expanded="true" signature="1363:1499" ph="/// Joyconのジャイロを取得 ... " />
+            <marker date="1571927654881" expanded="true" signature="1543:1616" ph="{...}" />
+            <marker date="1571927654881" expanded="true" signature="1626:1767" ph="/// Joyconのアナログスティックの傾き ... " />
+            <marker date="1571927654881" expanded="true" signature="1812:1989" ph="{...}" />
+            <marker date="1571927654881" expanded="true" signature="1999:2132" ph="/// Joycon自体の傾き ... " />
+            <marker date="1571927654881" expanded="true" signature="2178:2279" ph="{...}" />
+            <marker date="1571927654881" expanded="true" signature="2285:2476" ph="/// Joyconの振った量がしきい値を超えたかどうか ... " />
+            <marker date="1571927654881" expanded="true" signature="2541:2611" ph="{...}" />
+            <marker date="1571927654881" expanded="true" signature="2617:2766" ph="/// Joyconの押しているボタンを返す, null許容型 ... " />
+            <marker date="1571927654881" expanded="true" signature="2817:2884" ph="{...}" />
+            <marker date="1571927654881" expanded="true" signature="2890:3173" ph="/// Joyconを振動させる ... " />
+            <marker date="1571927654881" expanded="true" signature="3292:3517" ph="{...}" />
+            <marker date="1571927654881" expanded="true" signature="3316:3407" ph="{...}" />
+            <marker date="1571927654881" expanded="true" signature="3420:3511" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kou-s\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kou-s\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Joycon_Meidaisai2019.-1343416136.00" t="ExcludeRecursive" />
+    <e p="C:\Users\kou-s\Desktop\Programing\Unitys\Joycon_Meidaisai2019" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="JoyconLib_scripts" t="Include">
+          <e p="General" t="Include">
+            <e p="Example.cs" t="Include" />
+            <e p="GetJoyconValue.cs" t="Include" />
+            <e p="HowToUseJoycon.cs" t="Include" />
+            <e p="SingletonMonoBehaviour.cs" t="Include" />
+          </e>
+          <e p="HIDapi.cs" t="Include" />
+          <e p="Joycon.cs" t="Include" />
+          <e p="JoyconManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Joycon_Meidaisai2019.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
