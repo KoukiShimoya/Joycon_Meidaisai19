@@ -1,5 +1,6 @@
 使い方   
-JoyconLibとWiimoteをダウンロード（以下の参考記事を参考に）   
+Wiimote内のhidapi.dllをインポート（以下の参考記事を参考に）
+Joycon_Meidaisai19-master/Assets/JoyconLib_scriptsフォルダをインポート
 JoyconManger.cs, GetJoyconValue.csをシーンに追加する   
 HowToUseJoycon.csを目安にコードを書いて欲しいです   
 
