@@ -8,3 +8,7 @@ JoyConの接続方法
 http://baba-s.hatenablog.com/entry/2017/11/12/160534    
 参考記事    
 http://baba-s.hatenablog.com/entry/2017/11/12/090000
+
+注意   
+Joyconの接続は、Joycon内側の小さい丸ボタンを長押しする   
+Joyconは左右どちらも接続されていないとエラーを吐きます
